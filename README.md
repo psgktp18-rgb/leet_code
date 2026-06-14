@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0001-two-sum/) | Easy |
+| [0136-single-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/psgktp18-rgb/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -19,4 +20,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/psgktp18-rgb/leet_code/tree/main/0217-contains-duplicate/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
