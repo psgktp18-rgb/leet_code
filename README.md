@@ -45,10 +45,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/psgktp18-rgb/leet_code/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/psgktp18-rgb/leet_code/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
