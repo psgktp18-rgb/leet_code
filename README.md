@@ -55,6 +55,7 @@
 | [0027-remove-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/psgktp18-rgb/leet_code/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/psgktp18-rgb/leet_code/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/psgktp18-rgb/leet_code/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/psgktp18-rgb/leet_code/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/psgktp18-rgb/leet_code/tree/main/0917-reverse-only-letters/) | Easy |
