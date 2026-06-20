@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psgktp18-rgb/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/psgktp18-rgb/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
@@ -24,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/psgktp18-rgb/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 ## Math
@@ -37,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/psgktp18-rgb/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0414-third-maximum-number/) | Easy |
@@ -80,4 +83,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/psgktp18-rgb/leet_code/tree/main/0455-assign-cookies/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
