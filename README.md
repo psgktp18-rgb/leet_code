@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/psgktp18-rgb/leet_code/tree/main/0035-search-insert-position/) | Easy |
@@ -43,6 +44,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/psgktp18-rgb/leet_code/tree/main/0217-contains-duplicate/) | Easy |
@@ -62,6 +64,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
