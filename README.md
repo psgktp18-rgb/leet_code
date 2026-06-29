@@ -24,6 +24,7 @@
 | [0704-binary-search](https://github.com/psgktp18-rgb/leet_code/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/psgktp18-rgb/leet_code/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/psgktp18-rgb/leet_code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/psgktp18-rgb/leet_code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/psgktp18-rgb/leet_code/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/psgktp18-rgb/leet_code/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## Hash Table
@@ -133,6 +134,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/psgktp18-rgb/leet_code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/psgktp18-rgb/leet_code/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/psgktp18-rgb/leet_code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/psgktp18-rgb/leet_code/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
