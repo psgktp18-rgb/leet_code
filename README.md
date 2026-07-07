@@ -48,6 +48,7 @@
 | [0002-add-two-numbers](https://github.com/psgktp18-rgb/leet_code/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/psgktp18-rgb/leet_code/tree/main/0013-roman-to-integer/) | Easy |
+| [0070-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/psgktp18-rgb/leet_code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -72,6 +73,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psgktp18-rgb/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/psgktp18-rgb/leet_code/tree/main/0392-is-subsequence/) | Easy |
 ## Two Pointers
@@ -158,4 +160,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
