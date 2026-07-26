@@ -110,6 +110,7 @@
 | [0013-roman-to-integer](https://github.com/psgktp18-rgb/leet_code/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/psgktp18-rgb/leet_code/tree/main/0020-valid-parentheses/) | Easy |
+| [0065-valid-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/psgktp18-rgb/leet_code/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/psgktp18-rgb/leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0151-reverse-words-in-a-string/) | Medium |
