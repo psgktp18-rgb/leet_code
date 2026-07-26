@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/psgktp18-rgb/leet_code/tree/main/0041-first-missing-positive/) | Hard |
 | [0054-spiral-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/psgktp18-rgb/leet_code/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psgktp18-rgb/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -83,6 +84,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psgktp18-rgb/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -135,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/psgktp18-rgb/leet_code/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/psgktp18-rgb/leet_code/tree/main/0455-assign-cookies/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
