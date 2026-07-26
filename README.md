@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/psgktp18-rgb/leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/psgktp18-rgb/leet_code/tree/main/0041-first-missing-positive/) | Hard |
+| [0054-spiral-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/psgktp18-rgb/leet_code/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psgktp18-rgb/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -172,6 +173,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0054-spiral-matrix/) | Medium |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -180,6 +182,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/psgktp18-rgb/leet_code/tree/main/0067-add-binary/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
