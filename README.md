@@ -15,6 +15,7 @@
 | [0054-spiral-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/psgktp18-rgb/leet_code/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/psgktp18-rgb/leet_code/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psgktp18-rgb/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0136-single-number/) | Easy |
@@ -56,6 +57,7 @@
 | [0009-palindrome-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/psgktp18-rgb/leet_code/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/psgktp18-rgb/leet_code/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/psgktp18-rgb/leet_code/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/psgktp18-rgb/leet_code/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0070-climbing-stairs/) | Easy |
