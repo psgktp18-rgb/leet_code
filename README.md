@@ -199,4 +199,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/psgktp18-rgb/leet_code/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
