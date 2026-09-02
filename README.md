@@ -63,6 +63,7 @@
 | [0070-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
+| [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/psgktp18-rgb/leet_code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@
 | [0070-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psgktp18-rgb/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/psgktp18-rgb/leet_code/tree/main/0392-is-subsequence/) | Easy |
+| [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,4 +207,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/psgktp18-rgb/leet_code/tree/main/0196-delete-duplicate-emails/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
