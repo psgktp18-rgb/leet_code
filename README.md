@@ -43,6 +43,7 @@
 | [0013-roman-to-integer](https://github.com/psgktp18-rgb/leet_code/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/psgktp18-rgb/leet_code/tree/main/0041-first-missing-positive/) | Hard |
+| [0141-linked-list-cycle](https://github.com/psgktp18-rgb/leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/psgktp18-rgb/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/psgktp18-rgb/leet_code/tree/main/0242-valid-anagram/) | Easy |
@@ -104,6 +105,7 @@
 | [0027-remove-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/psgktp18-rgb/leet_code/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/psgktp18-rgb/leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0283-move-zeroes/) | Easy |
@@ -160,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/psgktp18-rgb/leet_code/tree/main/0002-add-two-numbers/) | Medium |
+| [0141-linked-list-cycle](https://github.com/psgktp18-rgb/leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/psgktp18-rgb/leet_code/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/psgktp18-rgb/leet_code/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -223,4 +226,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/psgktp18-rgb/leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
