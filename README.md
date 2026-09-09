@@ -162,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/psgktp18-rgb/leet_code/tree/main/0002-add-two-numbers/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/psgktp18-rgb/leet_code/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/psgktp18-rgb/leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/psgktp18-rgb/leet_code/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/psgktp18-rgb/leet_code/tree/main/0876-middle-of-the-linked-list/) | Easy |
