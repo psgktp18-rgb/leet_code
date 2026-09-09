@@ -5,9 +5,9 @@
 #         self.next = next
 class Solution(object):
     def removeElements(self, head, val):
+        
         while head != None and head.val == val:
             head = head.next
-
         curr = head
 
         while curr != None and curr.next != None:
