@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/psgktp18-rgb/leet_code/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/psgktp18-rgb/leet_code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0027-remove-element/) | Easy |
@@ -120,6 +121,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/psgktp18-rgb/leet_code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/psgktp18-rgb/leet_code/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/psgktp18-rgb/leet_code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/psgktp18-rgb/leet_code/tree/main/0020-valid-parentheses/) | Easy |
 | [0065-valid-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0065-valid-number/) | Hard |
@@ -233,4 +235,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/psgktp18-rgb/leet_code/tree/main/0141-linked-list-cycle/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/psgktp18-rgb/leet_code/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
