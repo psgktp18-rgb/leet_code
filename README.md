@@ -87,6 +87,7 @@
 | [0067-add-binary](https://github.com/psgktp18-rgb/leet_code/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/psgktp18-rgb/leet_code/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/psgktp18-rgb/leet_code/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
 ## Dynamic Programming
@@ -157,6 +158,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/psgktp18-rgb/leet_code/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/psgktp18-rgb/leet_code/tree/main/0191-number-of-1-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
