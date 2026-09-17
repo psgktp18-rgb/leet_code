@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/psgktp18-rgb/leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/psgktp18-rgb/leet_code/tree/main/0041-first-missing-positive/) | Hard |
+| [0051-n-queens](https://github.com/psgktp18-rgb/leet_code/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/psgktp18-rgb/leet_code/tree/main/0056-merge-intervals/) | Medium |
@@ -195,6 +196,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0039-combination-sum/) | Medium |
+| [0051-n-queens](https://github.com/psgktp18-rgb/leet_code/tree/main/0051-n-queens/) | Hard |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -242,4 +244,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/psgktp18-rgb/leet_code/tree/main/0014-longest-common-prefix/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/psgktp18-rgb/leet_code/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
