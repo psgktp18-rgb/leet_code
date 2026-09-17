@@ -23,6 +23,7 @@
 | [0136-single-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/psgktp18-rgb/leet_code/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/psgktp18-rgb/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0283-move-zeroes/) | Easy |
@@ -98,6 +99,7 @@
 | [0062-unique-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psgktp18-rgb/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/psgktp18-rgb/leet_code/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/psgktp18-rgb/leet_code/tree/main/0392-is-subsequence/) | Easy |
 | [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
 ## Two Pointers
