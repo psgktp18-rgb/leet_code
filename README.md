@@ -61,6 +61,7 @@
 | [0007-reverse-integer](https://github.com/psgktp18-rgb/leet_code/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/psgktp18-rgb/leet_code/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/psgktp18-rgb/leet_code/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/psgktp18-rgb/leet_code/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/psgktp18-rgb/leet_code/tree/main/0067-add-binary/) | Easy |
@@ -179,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/psgktp18-rgb/leet_code/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/psgktp18-rgb/leet_code/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/psgktp18-rgb/leet_code/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/psgktp18-rgb/leet_code/tree/main/0206-reverse-linked-list/) | Easy |
 ## Sliding Window
