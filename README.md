@@ -67,6 +67,7 @@
 | [0067-add-binary](https://github.com/psgktp18-rgb/leet_code/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/psgktp18-rgb/leet_code/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0070-climbing-stairs/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/psgktp18-rgb/leet_code/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
@@ -134,6 +135,7 @@
 | [0067-add-binary](https://github.com/psgktp18-rgb/leet_code/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/psgktp18-rgb/leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/psgktp18-rgb/leet_code/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/psgktp18-rgb/leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/psgktp18-rgb/leet_code/tree/main/0392-is-subsequence/) | Easy |
