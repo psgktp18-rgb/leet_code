@@ -36,6 +36,7 @@
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/psgktp18-rgb/leet_code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/psgktp18-rgb/leet_code/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1720-decode-xored-array](https://github.com/psgktp18-rgb/leet_code/tree/main/1720-decode-xored-array/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/psgktp18-rgb/leet_code/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/psgktp18-rgb/leet_code/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## Hash Table
@@ -94,6 +95,7 @@
 | [0191-number-of-1-bits](https://github.com/psgktp18-rgb/leet_code/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
+| [1720-decode-xored-array](https://github.com/psgktp18-rgb/leet_code/tree/main/1720-decode-xored-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
