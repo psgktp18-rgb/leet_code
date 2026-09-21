@@ -31,6 +31,7 @@
 | [0455-assign-cookies](https://github.com/psgktp18-rgb/leet_code/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/psgktp18-rgb/leet_code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/psgktp18-rgb/leet_code/tree/main/0704-binary-search/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/psgktp18-rgb/leet_code/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
@@ -107,6 +108,7 @@
 | [0198-house-robber](https://github.com/psgktp18-rgb/leet_code/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/psgktp18-rgb/leet_code/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
