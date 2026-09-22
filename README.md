@@ -71,6 +71,7 @@
 | [0070-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/psgktp18-rgb/leet_code/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/psgktp18-rgb/leet_code/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
@@ -95,6 +96,7 @@
 | [0136-single-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/psgktp18-rgb/leet_code/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/psgktp18-rgb/leet_code/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/psgktp18-rgb/leet_code/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
 | [1720-decode-xored-array](https://github.com/psgktp18-rgb/leet_code/tree/main/1720-decode-xored-array/) | Easy |
@@ -191,6 +193,7 @@
 | [0050-powx-n](https://github.com/psgktp18-rgb/leet_code/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/psgktp18-rgb/leet_code/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/psgktp18-rgb/leet_code/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/psgktp18-rgb/leet_code/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0509-fibonacci-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
