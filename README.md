@@ -75,6 +75,7 @@
 | [0231-power-of-two](https://github.com/psgktp18-rgb/leet_code/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/psgktp18-rgb/leet_code/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
+| [0507-perfect-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/psgktp18-rgb/leet_code/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
