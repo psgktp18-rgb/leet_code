@@ -30,6 +30,7 @@
 | [0414-third-maximum-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/psgktp18-rgb/leet_code/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/psgktp18-rgb/leet_code/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
 | [0704-binary-search](https://github.com/psgktp18-rgb/leet_code/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
@@ -116,6 +117,7 @@
 | [0198-house-robber](https://github.com/psgktp18-rgb/leet_code/tree/main/0198-house-robber/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/psgktp18-rgb/leet_code/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0392-is-subsequence](https://github.com/psgktp18-rgb/leet_code/tree/main/0392-is-subsequence/) | Easy |
+| [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
@@ -225,6 +227,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/psgktp18-rgb/leet_code/tree/main/0051-n-queens/) | Hard |
+| [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -290,4 +293,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/psgktp18-rgb/leet_code/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
