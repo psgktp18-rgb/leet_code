@@ -83,6 +83,7 @@
 | [0509-fibonacci-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/psgktp18-rgb/leet_code/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/psgktp18-rgb/leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/psgktp18-rgb/leet_code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/psgktp18-rgb/leet_code/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Sorting
@@ -165,6 +166,7 @@
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/psgktp18-rgb/leet_code/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/psgktp18-rgb/leet_code/tree/main/0917-reverse-only-letters/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/psgktp18-rgb/leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/psgktp18-rgb/leet_code/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/psgktp18-rgb/leet_code/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/psgktp18-rgb/leet_code/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -315,4 +317,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0292-nim-game/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/psgktp18-rgb/leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/psgktp18-rgb/leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
