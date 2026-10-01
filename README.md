@@ -79,6 +79,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/psgktp18-rgb/leet_code/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0292-nim-game/) | Easy |
+| [0504-base-7](https://github.com/psgktp18-rgb/leet_code/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/psgktp18-rgb/leet_code/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -163,6 +164,7 @@
 | [0344-reverse-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/psgktp18-rgb/leet_code/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0504-base-7](https://github.com/psgktp18-rgb/leet_code/tree/main/0504-base-7/) | Easy |
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/psgktp18-rgb/leet_code/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/psgktp18-rgb/leet_code/tree/main/0917-reverse-only-letters/) | Easy |
