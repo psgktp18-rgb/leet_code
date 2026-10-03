@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/psgktp18-rgb/leet_code/tree/main/0455-assign-cookies/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/psgktp18-rgb/leet_code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
 | [0704-binary-search](https://github.com/psgktp18-rgb/leet_code/tree/main/0704-binary-search/) | Easy |
@@ -121,6 +122,7 @@
 | [0198-house-robber](https://github.com/psgktp18-rgb/leet_code/tree/main/0198-house-robber/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/psgktp18-rgb/leet_code/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0392-is-subsequence](https://github.com/psgktp18-rgb/leet_code/tree/main/0392-is-subsequence/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -164,6 +166,7 @@
 | [0344-reverse-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/psgktp18-rgb/leet_code/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0504-base-7](https://github.com/psgktp18-rgb/leet_code/tree/main/0504-base-7/) | Easy |
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/psgktp18-rgb/leet_code/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -306,10 +309,12 @@
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
