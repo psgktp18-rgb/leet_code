@@ -32,6 +32,7 @@
 | [0474-ones-and-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/psgktp18-rgb/leet_code/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/psgktp18-rgb/leet_code/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0704-binary-search](https://github.com/psgktp18-rgb/leet_code/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
@@ -110,6 +111,7 @@
 | [0191-number-of-1-bits](https://github.com/psgktp18-rgb/leet_code/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/psgktp18-rgb/leet_code/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
+| [0526-beautiful-arrangement](https://github.com/psgktp18-rgb/leet_code/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
 | [1720-decode-xored-array](https://github.com/psgktp18-rgb/leet_code/tree/main/1720-decode-xored-array/) | Easy |
 ## Dynamic Programming
@@ -125,6 +127,7 @@
 | [0474-ones-and-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0509-fibonacci-number/) | Easy |
+| [0526-beautiful-arrangement](https://github.com/psgktp18-rgb/leet_code/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/psgktp18-rgb/leet_code/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
@@ -238,6 +241,7 @@
 | [0039-combination-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/psgktp18-rgb/leet_code/tree/main/0051-n-queens/) | Hard |
 | [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/psgktp18-rgb/leet_code/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -332,4 +336,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/psgktp18-rgb/leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/psgktp18-rgb/leet_code/tree/main/0526-beautiful-arrangement/) | Medium |
 <!---LeetCode Topics End-->
