@@ -1,12 +1,8 @@
 class Solution(object):
     def subsetXORSum(self, nums):
-        def dfs(i, xor):
-            if i == len(nums):
-                return xor
+        x = 0
 
-            take = dfs(i + 1, xor ^ nums[i])
-            skip = dfs(i + 1, xor)
+        for num in nums:
+            x |= num
 
-            return take + skip
-
-        return dfs(0, 0)
+        return x * (2 ** (len(nums) - 1))
