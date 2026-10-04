@@ -42,6 +42,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/psgktp18-rgb/leet_code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/psgktp18-rgb/leet_code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1720-decode-xored-array](https://github.com/psgktp18-rgb/leet_code/tree/main/1720-decode-xored-array/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/psgktp18-rgb/leet_code/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/psgktp18-rgb/leet_code/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/psgktp18-rgb/leet_code/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/psgktp18-rgb/leet_code/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
@@ -89,6 +90,7 @@
 | [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/psgktp18-rgb/leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/psgktp18-rgb/leet_code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/psgktp18-rgb/leet_code/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/psgktp18-rgb/leet_code/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@
 | [0526-beautiful-arrangement](https://github.com/psgktp18-rgb/leet_code/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
 | [1720-decode-xored-array](https://github.com/psgktp18-rgb/leet_code/tree/main/1720-decode-xored-array/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/psgktp18-rgb/leet_code/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +250,7 @@
 | [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/psgktp18-rgb/leet_code/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/psgktp18-rgb/leet_code/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +272,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0062-unique-paths/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/psgktp18-rgb/leet_code/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +316,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/psgktp18-rgb/leet_code/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/psgktp18-rgb/leet_code/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
