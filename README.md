@@ -168,6 +168,7 @@
 | [0171-excel-sheet-column-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/psgktp18-rgb/leet_code/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/psgktp18-rgb/leet_code/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/psgktp18-rgb/leet_code/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -242,6 +243,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/psgktp18-rgb/leet_code/tree/main/0051-n-queens/) | Hard |
+| [0257-binary-tree-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/psgktp18-rgb/leet_code/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
@@ -344,4 +346,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0526-beautiful-arrangement](https://github.com/psgktp18-rgb/leet_code/tree/main/0526-beautiful-arrangement/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0257-binary-tree-paths/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0257-binary-tree-paths/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
