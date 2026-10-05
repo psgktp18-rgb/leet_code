@@ -19,6 +19,7 @@
 | [0056-merge-intervals](https://github.com/psgktp18-rgb/leet_code/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/psgktp18-rgb/leet_code/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/psgktp18-rgb/leet_code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psgktp18-rgb/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
@@ -202,6 +203,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/psgktp18-rgb/leet_code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/psgktp18-rgb/leet_code/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/psgktp18-rgb/leet_code/tree/main/0191-number-of-1-bits/) | Easy |
@@ -355,6 +357,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/psgktp18-rgb/leet_code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -363,5 +366,10 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/psgktp18-rgb/leet_code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0257-binary-tree-paths/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/psgktp18-rgb/leet_code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
