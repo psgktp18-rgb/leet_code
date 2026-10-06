@@ -92,6 +92,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/psgktp18-rgb/leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/psgktp18-rgb/leet_code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/psgktp18-rgb/leet_code/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/psgktp18-rgb/leet_code/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -186,6 +187,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/psgktp18-rgb/leet_code/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/psgktp18-rgb/leet_code/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/psgktp18-rgb/leet_code/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,11 +272,13 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/psgktp18-rgb/leet_code/tree/main/0067-add-binary/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0062-unique-paths/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/psgktp18-rgb/leet_code/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +327,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/psgktp18-rgb/leet_code/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
