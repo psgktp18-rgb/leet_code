@@ -83,6 +83,7 @@
 | [0189-rotate-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/psgktp18-rgb/leet_code/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/psgktp18-rgb/leet_code/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0258-add-digits](https://github.com/psgktp18-rgb/leet_code/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0292-nim-game/) | Easy |
 | [0504-base-7](https://github.com/psgktp18-rgb/leet_code/tree/main/0504-base-7/) | Easy |
@@ -277,6 +278,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/psgktp18-rgb/leet_code/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/psgktp18-rgb/leet_code/tree/main/0258-add-digits/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -332,6 +334,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/psgktp18-rgb/leet_code/tree/main/0258-add-digits/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/psgktp18-rgb/leet_code/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Knapsack Problem
