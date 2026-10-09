@@ -372,6 +372,7 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/psgktp18-rgb/leet_code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0257-binary-tree-paths/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,8 +382,22 @@
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/psgktp18-rgb/leet_code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0257-binary-tree-paths/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/psgktp18-rgb/leet_code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
