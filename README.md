@@ -123,6 +123,7 @@
 | [1720-decode-xored-array](https://github.com/psgktp18-rgb/leet_code/tree/main/1720-decode-xored-array/) | Easy |
 | [1763-longest-nice-substring](https://github.com/psgktp18-rgb/leet_code/tree/main/1763-longest-nice-substring/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/psgktp18-rgb/leet_code/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/psgktp18-rgb/leet_code/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/psgktp18-rgb/leet_code/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/psgktp18-rgb/leet_code/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/psgktp18-rgb/leet_code/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/psgktp18-rgb/leet_code/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -261,6 +263,7 @@
 | [0526-beautiful-arrangement](https://github.com/psgktp18-rgb/leet_code/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/psgktp18-rgb/leet_code/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/psgktp18-rgb/leet_code/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
