@@ -63,6 +63,7 @@
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/psgktp18-rgb/leet_code/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1763-longest-nice-substring](https://github.com/psgktp18-rgb/leet_code/tree/main/1763-longest-nice-substring/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/psgktp18-rgb/leet_code/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Math
@@ -186,6 +187,7 @@
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/psgktp18-rgb/leet_code/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/psgktp18-rgb/leet_code/tree/main/0917-reverse-only-letters/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/psgktp18-rgb/leet_code/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/psgktp18-rgb/leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/psgktp18-rgb/leet_code/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1763-longest-nice-substring](https://github.com/psgktp18-rgb/leet_code/tree/main/1763-longest-nice-substring/) | Easy |
@@ -201,6 +203,7 @@
 | [0069-sqrtx](https://github.com/psgktp18-rgb/leet_code/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/psgktp18-rgb/leet_code/tree/main/0704-binary-search/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/psgktp18-rgb/leet_code/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +398,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/psgktp18-rgb/leet_code/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
