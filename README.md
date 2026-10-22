@@ -35,6 +35,7 @@
 | [0494-target-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/psgktp18-rgb/leet_code/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0542-01-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0542-01-matrix/) | Medium |
+| [0621-task-scheduler](https://github.com/psgktp18-rgb/leet_code/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/psgktp18-rgb/leet_code/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
@@ -62,6 +63,7 @@
 | [0242-valid-anagram](https://github.com/psgktp18-rgb/leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0621-task-scheduler](https://github.com/psgktp18-rgb/leet_code/tree/main/0621-task-scheduler/) | Medium |
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/psgktp18-rgb/leet_code/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1763-longest-nice-substring](https://github.com/psgktp18-rgb/leet_code/tree/main/1763-longest-nice-substring/) | Easy |
@@ -109,6 +111,7 @@
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/psgktp18-rgb/leet_code/tree/main/0455-assign-cookies/) | Easy |
+| [0621-task-scheduler](https://github.com/psgktp18-rgb/leet_code/tree/main/0621-task-scheduler/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/psgktp18-rgb/leet_code/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -210,6 +213,7 @@
 | [0011-container-with-most-water](https://github.com/psgktp18-rgb/leet_code/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/psgktp18-rgb/leet_code/tree/main/0455-assign-cookies/) | Easy |
+| [0621-task-scheduler](https://github.com/psgktp18-rgb/leet_code/tree/main/0621-task-scheduler/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/psgktp18-rgb/leet_code/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -223,6 +227,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
+| [0621-task-scheduler](https://github.com/psgktp18-rgb/leet_code/tree/main/0621-task-scheduler/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,6 +407,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/psgktp18-rgb/leet_code/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
