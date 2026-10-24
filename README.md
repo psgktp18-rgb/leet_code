@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/psgktp18-rgb/leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/psgktp18-rgb/leet_code/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/psgktp18-rgb/leet_code/tree/main/0041-first-missing-positive/) | Hard |
+| [0048-rotate-image](https://github.com/psgktp18-rgb/leet_code/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/psgktp18-rgb/leet_code/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0055-jump-game/) | Medium |
@@ -75,6 +76,7 @@
 | [0007-reverse-integer](https://github.com/psgktp18-rgb/leet_code/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/psgktp18-rgb/leet_code/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/psgktp18-rgb/leet_code/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/psgktp18-rgb/leet_code/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/psgktp18-rgb/leet_code/tree/main/0066-plus-one/) | Easy |
@@ -275,6 +277,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/psgktp18-rgb/leet_code/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0054-spiral-matrix/) | Medium |
 | [0542-01-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0542-01-matrix/) | Medium |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
