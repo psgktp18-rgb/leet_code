@@ -262,6 +262,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/psgktp18-rgb/leet_code/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/psgktp18-rgb/leet_code/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,16 +385,19 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/psgktp18-rgb/leet_code/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/psgktp18-rgb/leet_code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0257-binary-tree-paths/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/psgktp18-rgb/leet_code/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0257-binary-tree-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0257-binary-tree-paths/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/psgktp18-rgb/leet_code/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/psgktp18-rgb/leet_code/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/psgktp18-rgb/leet_code/tree/main/0257-binary-tree-paths/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
