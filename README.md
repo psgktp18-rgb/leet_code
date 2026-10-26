@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/psgktp18-rgb/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/psgktp18-rgb/leet_code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0221-maximal-square](https://github.com/psgktp18-rgb/leet_code/tree/main/0221-maximal-square/) | Medium |
+| [0228-summary-ranges](https://github.com/psgktp18-rgb/leet_code/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0414-third-maximum-number/) | Easy |
