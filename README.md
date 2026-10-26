@@ -28,6 +28,7 @@
 | [0198-house-robber](https://github.com/psgktp18-rgb/leet_code/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/psgktp18-rgb/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/psgktp18-rgb/leet_code/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0221-maximal-square](https://github.com/psgktp18-rgb/leet_code/tree/main/0221-maximal-square/) | Medium |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0414-third-maximum-number/) | Easy |
@@ -140,6 +141,7 @@
 | [0070-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/psgktp18-rgb/leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/psgktp18-rgb/leet_code/tree/main/0198-house-robber/) | Medium |
+| [0221-maximal-square](https://github.com/psgktp18-rgb/leet_code/tree/main/0221-maximal-square/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/psgktp18-rgb/leet_code/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0392-is-subsequence](https://github.com/psgktp18-rgb/leet_code/tree/main/0392-is-subsequence/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -283,6 +285,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/psgktp18-rgb/leet_code/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0054-spiral-matrix/) | Medium |
+| [0221-maximal-square](https://github.com/psgktp18-rgb/leet_code/tree/main/0221-maximal-square/) | Medium |
 | [0542-01-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0542-01-matrix/) | Medium |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
 ## Memoization
