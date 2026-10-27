@@ -32,6 +32,7 @@
 | [0228-summary-ranges](https://github.com/psgktp18-rgb/leet_code/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/psgktp18-rgb/leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/psgktp18-rgb/leet_code/tree/main/0455-assign-cookies/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -67,6 +68,7 @@
 | [0219-contains-duplicate-ii](https://github.com/psgktp18-rgb/leet_code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/psgktp18-rgb/leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/psgktp18-rgb/leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0621-task-scheduler](https://github.com/psgktp18-rgb/leet_code/tree/main/0621-task-scheduler/) | Medium |
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
@@ -115,6 +117,7 @@
 | [0217-contains-duplicate](https://github.com/psgktp18-rgb/leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/psgktp18-rgb/leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/psgktp18-rgb/leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/psgktp18-rgb/leet_code/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/psgktp18-rgb/leet_code/tree/main/0621-task-scheduler/) | Medium |
@@ -167,6 +170,7 @@
 | [0189-rotate-array](https://github.com/psgktp18-rgb/leet_code/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/psgktp18-rgb/leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/psgktp18-rgb/leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/psgktp18-rgb/leet_code/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/psgktp18-rgb/leet_code/tree/main/0455-assign-cookies/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/psgktp18-rgb/leet_code/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -212,6 +216,7 @@
 | [0035-search-insert-position](https://github.com/psgktp18-rgb/leet_code/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/psgktp18-rgb/leet_code/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/psgktp18-rgb/leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/psgktp18-rgb/leet_code/tree/main/0704-binary-search/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/psgktp18-rgb/leet_code/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Greedy
