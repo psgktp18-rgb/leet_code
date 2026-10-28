@@ -42,6 +42,7 @@
 | [0542-01-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0542-01-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/psgktp18-rgb/leet_code/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/psgktp18-rgb/leet_code/tree/main/0704-binary-search/) | Easy |
+| [0706-design-hashmap](https://github.com/psgktp18-rgb/leet_code/tree/main/0706-design-hashmap/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/psgktp18-rgb/leet_code/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -71,6 +72,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/psgktp18-rgb/leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/psgktp18-rgb/leet_code/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0621-task-scheduler](https://github.com/psgktp18-rgb/leet_code/tree/main/0621-task-scheduler/) | Medium |
+| [0706-design-hashmap](https://github.com/psgktp18-rgb/leet_code/tree/main/0706-design-hashmap/) | Easy |
 | [0752-open-the-lock](https://github.com/psgktp18-rgb/leet_code/tree/main/0752-open-the-lock/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/psgktp18-rgb/leet_code/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1763-longest-nice-substring](https://github.com/psgktp18-rgb/leet_code/tree/main/1763-longest-nice-substring/) | Easy |
@@ -248,6 +250,7 @@
 | [0141-linked-list-cycle](https://github.com/psgktp18-rgb/leet_code/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/psgktp18-rgb/leet_code/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/psgktp18-rgb/leet_code/tree/main/0206-reverse-linked-list/) | Easy |
+| [0706-design-hashmap](https://github.com/psgktp18-rgb/leet_code/tree/main/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/psgktp18-rgb/leet_code/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -422,6 +425,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0706-design-hashmap](https://github.com/psgktp18-rgb/leet_code/tree/main/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/psgktp18-rgb/leet_code/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -432,4 +436,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/psgktp18-rgb/leet_code/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
