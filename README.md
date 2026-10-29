@@ -54,6 +54,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/psgktp18-rgb/leet_code/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/psgktp18-rgb/leet_code/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/psgktp18-rgb/leet_code/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/psgktp18-rgb/leet_code/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -210,6 +211,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/psgktp18-rgb/leet_code/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/psgktp18-rgb/leet_code/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/psgktp18-rgb/leet_code/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/psgktp18-rgb/leet_code/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Binary Search
@@ -348,6 +350,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/psgktp18-rgb/leet_code/tree/main/0014-longest-common-prefix/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,4 +443,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/psgktp18-rgb/leet_code/tree/main/0706-design-hashmap/) | Easy |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 <!---LeetCode Topics End-->
