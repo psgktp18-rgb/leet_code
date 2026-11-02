@@ -104,6 +104,7 @@
 | [0507-perfect-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/psgktp18-rgb/leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/psgktp18-rgb/leet_code/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0808-soup-servings](https://github.com/psgktp18-rgb/leet_code/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0837-new-21-game/) | Medium |
 | [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/psgktp18-rgb/leet_code/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -160,6 +161,7 @@
 | [0526-beautiful-arrangement](https://github.com/psgktp18-rgb/leet_code/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0542-01-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/psgktp18-rgb/leet_code/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0808-soup-servings](https://github.com/psgktp18-rgb/leet_code/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0837-new-21-game/) | Medium |
 | [1025-divisor-game](https://github.com/psgktp18-rgb/leet_code/tree/main/1025-divisor-game/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/psgktp18-rgb/leet_code/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
@@ -460,5 +462,6 @@
 ## Probability and Statistics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0808-soup-servings](https://github.com/psgktp18-rgb/leet_code/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0837-new-21-game/) | Medium |
 <!---LeetCode Topics End-->
