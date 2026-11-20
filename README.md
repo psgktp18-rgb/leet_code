@@ -55,6 +55,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/psgktp18-rgb/leet_code/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/psgktp18-rgb/leet_code/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/psgktp18-rgb/leet_code/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/psgktp18-rgb/leet_code/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -315,6 +316,7 @@
 | [0221-maximal-square](https://github.com/psgktp18-rgb/leet_code/tree/main/0221-maximal-square/) | Medium |
 | [0542-01-matrix](https://github.com/psgktp18-rgb/leet_code/tree/main/0542-01-matrix/) | Medium |
 | [0980-unique-paths-iii](https://github.com/psgktp18-rgb/leet_code/tree/main/0980-unique-paths-iii/) | Hard |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/psgktp18-rgb/leet_code/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,6 +457,7 @@
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/psgktp18-rgb/leet_code/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/psgktp18-rgb/leet_code/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/psgktp18-rgb/leet_code/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -477,4 +480,12 @@
 | ------- | ------- |
 | [0808-soup-servings](https://github.com/psgktp18-rgb/leet_code/tree/main/0808-soup-servings/) | Medium |
 | [0837-new-21-game](https://github.com/psgktp18-rgb/leet_code/tree/main/0837-new-21-game/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/psgktp18-rgb/leet_code/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/psgktp18-rgb/leet_code/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 <!---LeetCode Topics End-->
