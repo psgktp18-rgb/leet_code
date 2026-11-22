@@ -488,4 +488,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/psgktp18-rgb/leet_code/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
