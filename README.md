@@ -56,6 +56,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/psgktp18-rgb/leet_code/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/psgktp18-rgb/leet_code/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/psgktp18-rgb/leet_code/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/psgktp18-rgb/leet_code/tree/main/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@
 | [0981-time-based-key-value-store](https://github.com/psgktp18-rgb/leet_code/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1763-longest-nice-substring](https://github.com/psgktp18-rgb/leet_code/tree/main/1763-longest-nice-substring/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/psgktp18-rgb/leet_code/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/psgktp18-rgb/leet_code/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +239,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/psgktp18-rgb/leet_code/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/psgktp18-rgb/leet_code/tree/main/0704-binary-search/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/psgktp18-rgb/leet_code/tree/main/0981-time-based-key-value-store/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/psgktp18-rgb/leet_code/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -467,10 +470,12 @@
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/psgktp18-rgb/leet_code/tree/main/0706-design-hashmap/) | Easy |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/psgktp18-rgb/leet_code/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/psgktp18-rgb/leet_code/tree/main/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/psgktp18-rgb/leet_code/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,4 +497,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/psgktp18-rgb/leet_code/tree/main/0169-majority-element/) | Easy |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/psgktp18-rgb/leet_code/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
